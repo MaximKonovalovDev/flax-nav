@@ -1,8 +1,6 @@
 # FlaxNav by Flax Game Studio
 
-Fast C# and Flax API search for Flax Engine. Free and open source (MIT).
-
-I built this for my own daily Flax work. It saved me hours of wrong API guesses, failed builds, and editor restarts, so I'm sharing it. It works on its own as a standalone tool.
+Fast C# and Flax API search for Flax Engine. Free and open source (MIT). Standalone tool: answers API and codebase questions in under a second, without opening the editor.
 
 ## Why
 
